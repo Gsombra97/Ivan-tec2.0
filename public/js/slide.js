@@ -1,3 +1,7 @@
+// Código retirado do W3school e concertato pelo Caique Militão
+// Ressalto que tudo que menciona ou referencia a div MySlides e sua componentes internas, foram retirados do w3school
+// Mensiono também que estou escrevendo isso AQUI porquê só AQUI eu sei que o código não vai quebrar por causa do meu comentário
+
 let slideIndex = 0;
 showSlides(slideIndex);
 

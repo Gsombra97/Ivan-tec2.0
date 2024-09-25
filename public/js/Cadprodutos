@@ -1,3 +1,6 @@
+//Código quase de quase um copia e cola do formulário de autenticação.
+//Também contei com o chat GPT para configurar as rotas de envio do formulário e de redirecionamento.
+
 document.addEventListener("DOMContentLoaded", () => {
 
     document.getElementById("produtoCadForm").addEventListener("submit", async (event) => {
