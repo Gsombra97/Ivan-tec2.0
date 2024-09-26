@@ -4,11 +4,15 @@ Trabalho desenvolvido com o professor Wellington para criar uma aplicação web 
 
 ## Como rodar o código:
 
-1. Instale **todas** as dependências do projeto com o comando:
+1.Baixe a versão da branch main
+
+2. Instale **todas** as dependências do projeto com o comando:
    ```bash
    npm install
 
-2. Coloque para rodar digitando no terminal o código: node index.js
+3. Coloque para rodar digitando no terminal o código: node index.js
+
+4. Caso o navegador não encontre a página, sugiro colocar localhost:3000
 
 
 # link para o pdf da atividade:
