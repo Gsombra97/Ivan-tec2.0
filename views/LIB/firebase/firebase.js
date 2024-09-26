@@ -12,7 +12,7 @@ const firebaseConfig = {
   projectId: "ivantec-3539c",
   storageBucket: "ivantec-3539c.appspot.com",
   messagingSenderId: "102224413338",
-  appId: "1:102224413338:web:ca06ceee2a688565465523
+  appId: "1:102224413338:web:ca06ceee2a688565465523"
 };
 
 // Initialize Firebase
