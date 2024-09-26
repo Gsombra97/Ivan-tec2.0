@@ -12,7 +12,7 @@ Trabalho desenvolvido com o professor Wellington para criar uma aplicação web 
 
 3. Coloque para rodar digitando no terminal o código: node index.js
 
-4. Caso o navegador não encontre a página, sugiro colocar localhost:3000
+4. Caso o navegador não encontre a página, sugiro colocar, na barra de links o seguinte código: [localhost:3000](http://localhost:3000) 
 
 
 # link para o pdf da atividade:
